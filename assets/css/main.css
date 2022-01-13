@@ -827,7 +827,8 @@ a.back-to-top:focus {
 }
 
 .img-cl {
-    width: fit-content;
+    width: 100%;
+    max-width: 830px;
 }
 
 .navbar-toggler {
