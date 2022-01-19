@@ -1798,7 +1798,7 @@ a.back-to-top:focus {
 }
 
 .footer-area .footer-social li a:hover {
-    color: #bc2a8d;
+    background: #bc2a8d;
 }
 
 .footer-area .footer-social li .facebook:hover {
