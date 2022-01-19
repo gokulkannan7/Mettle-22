@@ -158,13 +158,13 @@ sup {
     top: -0.5em;
 }
 a {
-    color: #007bff;
+    color: goldenrod;
     text-decoration: none;
     background-color: transparent;
     -webkit-text-decoration-skip: objects;
 }
 a:hover {
-    color: goldenrod;
+    color: gold;
     text-decoration: underline;
 }
 a:not([href]):not([tabindex]) {
