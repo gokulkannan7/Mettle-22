@@ -1772,7 +1772,7 @@ a.back-to-top:focus {
 }
 
 .footer-area ul li a:hover {
-    color: #e91e63;
+    color: black;
 }
 
 .footer-area .footer-social li {
@@ -1825,6 +1825,9 @@ a.back-to-top:focus {
 }
 .footer-area .footer-social li .medium:hover {
     background: black;
+}
+.footer-area .footer-social li .instagram:hover {
+    background: #bc2a8d;
 }
 .footer-area .footer-text p {
     font-size: 14px;
