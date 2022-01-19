@@ -1824,7 +1824,9 @@ a.back-to-top:focus {
 .footer-area .footer-social li .youtube:hover {
     background: red;
 }
-
+.footer-area .footer-social li .medium:hover {
+    background: black;
+}
 .footer-area .footer-text p {
     font-size: 14px;
     margin-top: 20px;
